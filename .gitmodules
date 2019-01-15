@@ -1,0 +1,3 @@
+[submodule "stm32c11"]
+	path = stm32c11
+	url = https://github.com/JocusSoft/stm32c11.git
