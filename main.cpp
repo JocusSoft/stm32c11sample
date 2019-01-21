@@ -12,11 +12,7 @@
 #include <string.h>
 
 
-#include "peripherals/interrupts.hpp"
-#include "peripherals/nvic.hpp"
-#include "peripherals/pin.hpp"
-#include "peripherals/clock.hpp"
-#include "peripherals/systick.hpp"
+#include "stm32c11.hpp"
 
 using namespace peripheral::gpio;
 
